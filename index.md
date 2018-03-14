@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>Feng</h1>
         <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://twitter.com/iShawnFung" target="_blank"><img src="http://www.twitter.com/favicon.ico" alt="" width="30"/></a>
+        <a href="http://douban.com/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://www.instagram.com/goodfung/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
